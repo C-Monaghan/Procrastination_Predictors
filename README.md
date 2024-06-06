@@ -39,7 +39,7 @@ As such, the objectives of this study were twofold:
 <p> Clone the repository to your local machine using the following command: </p>
 
 ```bash
-https://github.com/C-Monaghan/Procrastination_SEM.git
+https://github.com/C-Monaghan/Procrastination_Predictors.git
 ```
 
 <p> Open the R project </p>
