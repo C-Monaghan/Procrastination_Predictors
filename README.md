@@ -44,4 +44,4 @@ start Procrastination_SEM.Rproj
 
 ## Contact
 
-If you have any questions or need further assistance, please contact the corresponding author at [cormac.monaghan.2019@mumail.ie](mailto:cormac.monaghan.2019@mumail.ie)
+If you have any questions or need further assistance, please contact the corresponding author at [cormacmonaghan@protonmail.com](mailto:cormacmonaghan@protonmail.com)
