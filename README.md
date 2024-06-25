@@ -26,7 +26,7 @@ As such, the objectives of this study were twofold:
 ## Repository Structure
 The repository is organized as follows:
 
-- **00__Prerequisites:** Contains code books and information about the HRS data.
+- **00__Documentation:** Contains code books and information about the HRS data.
 - **01__Data:** Contains both the raw and processed datafiles.
 - **02__Models:** Contains all the project code.
   - **01__Processing:** Code to process the raw data.
