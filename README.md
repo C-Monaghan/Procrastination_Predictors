@@ -1,4 +1,10 @@
-<h1 align = "center"> Procrastination, Depressive Symptomatology, and Loneliness in Later Life </h1>
+<p align="right">
+  <a href="https://doi.org/10.1080/13607863.2024.2345781" target="_blank">
+    <img src="https://img.shields.io/badge/doi-10.1080/13607863.2024.2345781-yellow.svg" alt="DOI Badge">
+  </a>
+</p>
+
+<h2 align = "center"> Procrastination, Depressive Symptomatology, and Loneliness in Later Life </h2>
 <h4 align = "center"> Cormac Monaghan<sup>1,4 </sup>, Dr. Ione Avila-Palencia<sup>2 </sup>, Dr. S. Duke Han<sup>3 </sup>, & Dr. Joanna McHugh Power<sup> 4</sup> </h4>
 
 <sup>1</sup> Hamilton Institute, Maynooth University  
