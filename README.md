@@ -1,4 +1,4 @@
-<p align="right">
+<p align="left">
   <a href="https://doi.org/10.1080/13607863.2024.2345781" target="_blank">
     <img src="https://img.shields.io/badge/doi-10.1080/13607863.2024.2345781-yellow.svg" alt="DOI Badge">
   </a>
