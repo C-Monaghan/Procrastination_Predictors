@@ -16,11 +16,6 @@
 
 ---
 
-> [!Important]
-> The Health and Retirement Study (HRS) provides a special file called a cross-wave tracker file to help analyze data across different HRS surveys (called waves). This file is used for the included script, [Aggregation.R](https://github.com/C-Monaghan/Procrastination_Predictors/blob/main/02__Models/01__Processing/01__Aggregation.R). However, the file is quite large (185 MB) and exceeds typical file size limits.
->
-> To run the script, download the cross-wave tracker file from the [HRS website](https://hrsdata.isr.umich.edu/data-products/cross-wave-tracker-file) and save it in the following directory with the filename **./01__Data/01__Raw_Data/Tracker.sav**.
-
 ## Overview
 Procrastination is a behaviour performed by various age groups. However, over the years, research has predominantly focused on student and younger adult populations, with **little attention given to procrastination behaviours among older adults**. This complex behaviour is influenced by a multitude of factors. Through previous studies on younger populations, researchers have identified numerous factors closely associated with procrastination. However, to gain a more comprehensive and holistic understanding of procrastination, research also needs to take into consideration procrastination in later life and examine whether these factors also apply to older adults.
 
@@ -32,7 +27,6 @@ As such, the objectives of this study were twofold:
 ## Repository Structure
 The repository is organized as follows:
 
-- **00__Documentation:** Contains code books and information about the HRS data.
 - **01__Data:** Contains both the raw and processed datafiles.
 - **02__Models:** Contains all the project code.
   - **01__Processing:** Code to process the raw data.
