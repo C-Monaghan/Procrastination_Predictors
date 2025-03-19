@@ -27,6 +27,7 @@ As such, the objectives of this study were twofold:
 ## Repository Structure
 The repository is organized as follows:
 
+- **00__Documentation:** Contains pdf and txt files on the variables contained within the datafiles.
 - **01__Data:** Contains both the raw and processed datafiles.
 - **02__Models:** Contains all the project code.
   - **01__Processing:** Code to process the raw data.
