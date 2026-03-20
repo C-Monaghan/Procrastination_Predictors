@@ -14,6 +14,10 @@
 
 #### [Paper Link](https://www.tandfonline.com/doi/full/10.1080/13607863.2024.2345781)
 
+
+> [!IMPORTANT]
+> This repository is now archived with a clone of it available at [https://github.com/C-Monaghan/earth-eagle](https://github.com/C-Monaghan/earth-eagle).
+
 ---
 
 ## Overview
